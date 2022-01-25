@@ -45,10 +45,6 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 
-- GitHub: [@Nuri1977](https://github.com/Nuri1977)
-- Twitter: [@Lackanuri](https://twitter.com/LackaNuri)
-- LinkedIn: [@nurilacka](https://www.linkedin.com/in/nuri-lacka-7141b01ba/)
-
 
 ## 🤝 Contributing
 
